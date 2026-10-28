@@ -1,0 +1,22 @@
+# Blender 4.2.20 LTS MTL File: 'CyborgPSX.blend'
+# www.blender.org
+
+newmtl pschief
+Ns 135.557861
+Ka 0.418182 0.418182 0.418182
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd psxchief_new.png
+
+newmtl pschief_fr
+Ns 135.557861
+Ka 0.418182 0.418182 0.418182
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd psxchief_fullres.png

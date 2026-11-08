@@ -1,0 +1,50 @@
+# Material file para Madara_Uchiha.obj
+# Las texturas deben estar en la MISMA carpeta que este .mtl y el .obj
+
+newmtl Blender_Render_Madara_Material
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 10.0
+d 1.0
+illum 1
+map_Ka _Madara_texture_main_mAIN.png
+map_Kd _Madara_texture_main_mAIN.png
+
+newmtl Blender_Render_Madara_Material_NONE
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 10.0
+d 1.0
+illum 1
+map_Ka _Madara_texture_main_mAIN.png
+map_Kd _Madara_texture_main_mAIN.png
+
+newmtl Blender_Render_Madara_Eyes
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 10.0
+d 1.0
+illum 1
+map_Ka Sharingan_texture.jpg
+map_Kd Sharingan_texture.jpg
+
+newmtl Blender_Render_Madara_Eyes_NONE
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 10.0
+d 1.0
+illum 1
+map_Ka Sharingan_texture.jpg
+map_Kd Sharingan_texture.jpg
+
+newmtl None
+Ka 0.800 0.800 0.800
+Kd 0.800 0.800 0.800
+Ks 0.000 0.000 0.000
+Ns 10.0
+d 1.0
+illum 1

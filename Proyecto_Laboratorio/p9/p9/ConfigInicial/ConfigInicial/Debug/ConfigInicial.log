@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\main.cpp(389,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\main.cpp(392,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\main.cpp(585,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\main.cpp(586,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\main.cpp(589,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\main.cpp(590,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\main.cpp(591,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\main.cpp(592,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  ConfigInicial.vcxproj -> C:\Users\brand\Downloads\p9\p9\ConfigInicial\Debug\ConfigInicial.exe

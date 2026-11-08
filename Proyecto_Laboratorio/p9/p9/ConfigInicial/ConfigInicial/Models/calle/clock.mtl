@@ -1,0 +1,128 @@
+newmtl Material.026
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_Material.026.png
+
+newmtl image
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 72.1
+d 1.000
+map_Kd color_image.png
+
+newmtl volume
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_volume.png
+
+newmtl bin
+Kd 0.5711 0.4179 0.6240
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_bin.png
+
+newmtl corners
+Kd 0.6241 0.3768 0.5008
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_corners.png
+
+newmtl Material.027
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_Material.027.png
+
+newmtl tiles
+Kd 0.2796 0.3598 0.8003
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_tiles.png
+
+newmtl ground
+Kd 0.2270 0.3186 0.7991
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_ground.png
+
+newmtl pilar
+Kd 0.9911 0.3515 0.1981
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 68.7
+d 1.000
+map_Kd color_pilar.png
+
+newmtl chairs_
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_chairs_.png
+
+newmtl chairs_leg
+Kd 0.7992 0.3079 0.2062
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_chairs_leg.png
+
+newmtl signboard_
+Kd 0.7991 0.4793 0.5333
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_signboard_.png
+
+newmtl signboard_legs
+Kd 0.4901 0.2175 0.2285
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_signboard_legs.png
+
+newmtl railway_lines_light.001
+Kd 0.5395 0.5776 0.7991
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_railway_lines_light.001.png
+
+newmtl railway_ground.001
+Kd 0.1651 0.2307 0.5776
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_railway_ground.001.png
+
+newmtl pipes.001
+Kd 0.1624 0.1834 0.3400
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_pipes.001.png
+

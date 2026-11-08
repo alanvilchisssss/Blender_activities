@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.vsidx
+*.ipch
+*.ilk
+*.pdb
+*.suo
+Browse.VC.db
+Proyecto_Laboratorio.zip
+modelos_blender/elementos_ciudad/calle_oficial/Proyecto_Calle/
+modelos_blender/elementos_ciudad/calle_oficial/fusionar_alfa.py
+Thumbs.db
+**/Debug/
+*.exe
+# Archivos temporales de Visual Studio
+.vs/
+*.ipch
+
+# Archivos generados durante la compilación
+*.pdb
+*.ilk

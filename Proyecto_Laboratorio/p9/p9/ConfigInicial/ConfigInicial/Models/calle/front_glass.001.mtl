@@ -1,0 +1,16 @@
+newmtl window
+Kd 0.0792 0.0735 0.0752
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_window.png
+
+newmtl default
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_default.png
+

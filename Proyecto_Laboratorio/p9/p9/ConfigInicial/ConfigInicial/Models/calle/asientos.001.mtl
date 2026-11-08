@@ -1,0 +1,8 @@
+newmtl Material.032
+Kd 0.0641 0.0740 0.0613
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 32.0
+d 1.000
+map_Kd color_Material.032.png
+

@@ -1,0 +1,8 @@
+newmtl BlackDragon_Teeth
+Kd 0.4482 0.4550 0.3975
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 81.1
+d 1.000
+map_Kd color_BlackDragon_Teeth.png
+

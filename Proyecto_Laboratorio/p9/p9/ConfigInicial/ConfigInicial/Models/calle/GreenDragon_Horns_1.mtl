@@ -1,0 +1,8 @@
+newmtl GreenDragon_Horns_1
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 60.7
+d 1.000
+map_Kd GreenDragon_Horns1_Base_Color.png
+

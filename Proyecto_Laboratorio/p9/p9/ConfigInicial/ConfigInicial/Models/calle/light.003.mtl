@@ -1,0 +1,8 @@
+newmtl default
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_default.png
+

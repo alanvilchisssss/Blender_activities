@@ -1,0 +1,48 @@
+newmtl Material.016
+Kd 0.2918 0.5583 0.2874
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 12.8
+d 1.000
+map_Kd color_Material.016.png
+
+newmtl Material.017
+Kd 0.2384 0.3140 0.6654
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 128.0
+d 1.000
+map_Kd color_Material.017.png
+
+newmtl Material.018
+Kd 1.0000 1.0000 1.0000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_Material.018.png
+
+newmtl Material.019
+Kd 0.0941 0.0941 0.0941
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_Material.019.png
+
+newmtl Material.020
+Kd 0.2542 0.2018 0.1674
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_Material.020.png
+
+newmtl Material.021
+Kd 0.2542 0.0331 0.0176
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_Material.021.png
+

@@ -1,0 +1,16 @@
+newmtl MaterialRines.003
+Kd 0.5271 0.5583 0.5841
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 64.0
+d 1.000
+map_Kd color_MaterialRines.003.png
+
+newmtl Material_faldones.003
+Kd 0.0194 0.0203 0.0222
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 57.6
+d 1.000
+map_Kd color_Material_faldones.003.png
+

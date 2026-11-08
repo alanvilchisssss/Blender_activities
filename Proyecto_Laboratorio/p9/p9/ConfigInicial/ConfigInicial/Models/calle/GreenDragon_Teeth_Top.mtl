@@ -1,0 +1,8 @@
+newmtl GreenDragon_Teeth
+Kd 0.5145 0.5138 0.4689
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 54.6
+d 1.000
+map_Kd color_GreenDragon_Teeth.png
+

@@ -1,0 +1,64 @@
+newmtl Material.001
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 19.2
+d 1.000
+map_Kd color_Material.001.png
+
+newmtl Material.003
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 19.2
+d 1.000
+map_Kd color_Material.003.png
+
+newmtl Material.005
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 19.2
+d 1.000
+map_Kd color_Material.005.png
+
+newmtl Material.006
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 19.2
+d 1.000
+map_Kd color_Material.006.png
+
+newmtl Material.007
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 19.2
+d 1.000
+map_Kd color_Material.007.png
+
+newmtl Material.008
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 19.2
+d 1.000
+map_Kd color_Material.008.png
+
+newmtl Material.009
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 19.2
+d 1.000
+map_Kd color_Material.009.png
+
+newmtl Material.010
+Kd 0.8000 0.8000 0.8000
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 19.2
+d 1.000
+map_Kd color_Material.010.png
+

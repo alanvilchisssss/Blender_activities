@@ -92,12 +92,13 @@
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <AdditionalIncludeDirectories>C:\Users\brand\Downloads\p2\p2\ConfigInicial\ConfigInicial\External Libraries\glm;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLEW\include;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLFW\include;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\assimp\include;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\assimp\include;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLFW\include;C:\Users\CGIH4\Desktop\Practica 0\p2\ConfigInicial\ConfigInicial\External Libraries\glm;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\assimp\lib;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLEW\lib\Release\Win32;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLFW\lib-vc2015;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\SOIL2\lib;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\SOIL2\lib;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLFW\lib-vc2015;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLEW\lib\Release\Win32;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\assimp\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalDependencies>opengl32.lib;glew32.lib;glfw3.lib;assimp-vc140-mt.lib;soil2-debug.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -109,6 +110,7 @@
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <AdditionalIncludeDirectories>C:\Users\brand\Downloads\p2\p2\ConfigInicial\ConfigInicial\External Libraries\glm;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLEW\include;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLFW\include;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\assimp\include;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\assimp\include;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLFW\include;C:\Users\CGIH4\Desktop\Practica 0\p2\ConfigInicial\ConfigInicial\External Libraries\glm;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -116,7 +118,7 @@
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\assimp\lib;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLEW\lib\Release\Win32;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLFW\lib-vc2015;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\SOIL2\lib;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\SOIL2\lib;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLFW\lib-vc2015;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLEW\lib\Release\Win32;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\assimp\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalDependencies>opengl32.lib;glew32.lib;glfw3.lib;assimp-vc140-mt.lib;soil2-debug.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -126,12 +128,13 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <AdditionalIncludeDirectories>C:\Users\brand\Downloads\p2\p2\ConfigInicial\ConfigInicial\External Libraries\glm;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLEW\include;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLFW\include;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\assimp\include;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\assimp\include;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLFW\include;C:\Users\CGIH4\Desktop\Practica 0\p2\ConfigInicial\ConfigInicial\External Libraries\glm;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\assimp\lib;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLEW\lib\Release\Win32;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLFW\lib-vc2015;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\SOIL2\lib;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\SOIL2\lib;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLFW\lib-vc2015;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLEW\lib\Release\Win32;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\assimp\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalDependencies>opengl32.lib;glew32.lib;glfw3.lib;assimp-vc140-mt.lib;soil2-debug.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -143,6 +146,7 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <AdditionalIncludeDirectories>C:\Users\brand\Downloads\p2\p2\ConfigInicial\ConfigInicial\External Libraries\glm;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLEW\include;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLFW\include;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\assimp\include;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\assimp\include;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLFW\include;C:\Users\CGIH4\Desktop\Practica 0\p2\ConfigInicial\ConfigInicial\External Libraries\glm;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -150,7 +154,7 @@
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\assimp\lib;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLEW\lib\Release\Win32;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\GLFW\lib-vc2015;C:\Users\brand\Downloads\p9\p9\ConfigInicial\ConfigInicial\External Libraries\SOIL2\lib;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\SOIL2\lib;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLFW\lib-vc2015;C:\Users\CGIH4\Desktop\Practica 0\p0\ConfigInicial\ConfigInicial\External Libraries\GLEW\lib\Release\Win32;C:\Users\CGIH4\Desktop\Practica 0\p5\ConfigInicial\ConfigInicial\External Libraries\assimp\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalDependencies>opengl32.lib;glew32.lib;glfw3.lib;assimp-vc140-mt.lib;soil2-debug.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

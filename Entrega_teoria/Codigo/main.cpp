@@ -1,15 +1,4 @@
 // ============================================================================
-//  Foro Sol / Autodromo - Proyecto final Computacion Grafica (UNAM, 2027-1)
-//  OpenGL 3.3 core + GLSL.  Escena exportada desde Blender (foro_sol.blend).
-//
-//  Iluminacion : (1) Blinn-Phong  (2) Fresnel (Schlick) + environment mapping
-//  Texturizado : skybox (cube map) + texturas difusas de los modelos
-//  Animaciones POR CODIGO (3):
-//     C1  Autos siguiendo trayectoria (jerarquia carroceria -> llantas, giro y direccion)
-//     C2  Ondeo procedural de banderas (vertex shader)
-//     C3  Arboles mecidos por el viento (oscilacion procedural con pivote en la base)
-//  Animaciones POR INPUT (8):  ver README.md  (SPACE T F R B P V L)
-//  Interaccion con luces (2):  N = dia/noche (sol)   H = faros / luces de postes
 // ============================================================================
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
